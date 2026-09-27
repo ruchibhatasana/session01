@@ -1,0 +1,17 @@
+Q-5:-Compare your procedural C version and OOP TaskList version: List 3
+ problems you faced in the C version that were solved by using classes
+ and methods in the OOP version.
+ 
+ANS:-
+C Version
+ In the procedural C version, managing tasks was a little difficult. We had to
+ use arrays and separate functions to store and manage tasks. Marking a task 
+ as done required extra handling, and as the number of tasks increased, the 
+ code became more difficult to organize and maintain.
+
+OOP Version
+
+ In the OOP version, these problems were solved using classes and methods. The
+ Task class stores the task details, while the TaskList class manages multiple
+ tasks. Methods like addTask(), markTaskDone(), and showTasks() make the 
+ program more organized, simple, and easy to manage.
